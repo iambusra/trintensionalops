@@ -1,7 +1,12 @@
 operator,syntactic_category
 istemek,verb
- -(y)Abil,modality
+-(y)Abil,modality
 sanmak,verb
 ummak,verb
 zannetmek,verb
 şüphelenmek,verb
+bilmek,verb
+arzulamak,verb
+-mAlI,modality
+-mAk zorunda olmak,modality
+-mAsI gerekmek,modality
